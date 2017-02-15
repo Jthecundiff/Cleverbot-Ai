@@ -17,7 +17,8 @@ body {
     .footer {
         grid-area: footer;
     }
-
+.contenttwo{ 
+  grid-area: content;}
 
     .wrapper {
         display: grid;
@@ -26,6 +27,7 @@ body {
         grid-template-areas:
     "....... header header"
         "sidebar content content"
+        "sidebar contenttwo contenttwo"  
         "footer  footer  footer";
         background-color: #fff;
         color: #444;
