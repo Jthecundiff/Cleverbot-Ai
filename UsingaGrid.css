@@ -1,4 +1,4 @@
-body {
+body { background-color:#000000 
   margin: 40px;
 }
 
@@ -29,7 +29,7 @@ body {
         "sidebar content content"
         "sidebar contenttwo contenttwo"  
         "footer  footer  footer";
-        background-color: #fff;
+        background-color: #000000;
         color: #444;
     }
 
