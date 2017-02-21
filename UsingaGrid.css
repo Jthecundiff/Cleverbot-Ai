@@ -26,7 +26,7 @@ body { background-color:#474466;
         grid-template-columns: 400px 500px 600px;
         grid-template-areas:
     "....... header header"
-        "sidebar content content"
+        "sidebar"
         "sidebar contenttwo contenttwo"  
         "footer  footer  footer";
         background-color:transparent;
