@@ -47,4 +47,5 @@ body { background-color:#474466;
   background-color: #999;
 }
 .box{ background-color:#506d51;}
-
+a{color:#800000;} 
+a:hover{color:#999900;}
