@@ -27,7 +27,7 @@ body { background-color:#474466;
         grid-template-areas:
     "....... header header"
         "sidebar content content"
-        "sidebar contenttwo contenttwo"  
+        "....... contenttwo contenttwo"  
         "footer  footer  footer";
         background-color:transparent;
         color: #444;
